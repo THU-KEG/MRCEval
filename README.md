@@ -1,12 +1,5 @@
 # MRCEval Benchmark
-
-This is the codebase for MRCEval: A Comprehensive, Challenging and Accessible Machine Reading Comprehension Benchmark.
-
-
-
-## About MRCEval
 MRCEval is a comprehensive benchmark for machine reading comprehension (MRC) designed to assess the reading comprehension (RC) capabilities of LLMs, covering 13 sub-tasks with a total of 2.1K high-quality multi-choice questions.
-
 
 
 ## Quick Start
